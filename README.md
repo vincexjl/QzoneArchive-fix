@@ -3,6 +3,7 @@
 > ⭐ **推荐下载**：[Releases](https://github.com/wutuobangai/QzoneArchive-fix/releases/tag/v1.0.3-patch0829) 里以 `00-Recommended-` 开头的压缩包（安装包 + 中文图文教程，解压就能用）
 >
 > 🧑‍💻 **维护者 Happy AI · 阿浩**（抖音「跟着阿浩玩Ai」）｜官网 **[wutuobangai.top](https://wutuobangai.top/?utm_source=github&utm_medium=readme&utm_campaign=qzone-20260829)**：ChatGPT Plus / Pro · Claude · Gemini · Grok 会员正规充值，24 小时内交付，有售后｜[AI 免费知识库](https://wutuobangai.top/knowledge.html?utm_source=github&utm_medium=readme)（教程 / 工具 / 资料，不用登录）
+> <br>**更多免费工具 · Happy AI**：QQ 空间资料找回来后，也可以试试 [Opus 5.5 中文视频提示词库](https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=qzone-to-opus55)：在线看 927 条案例，看效果、一键复制。<br>产品广告、科普动画、歌词 MV，都能先挑一个喜欢的效果，再换成自己的内容。<br>[继续逛 AI 免费知识库 →](https://wutuobangai.top/knowledge.html?utm_source=github&utm_medium=readme&utm_campaign=qzone-more-free-tools)
 >
 > 💬 加阿浩微信（送一次 AI 诊断）：<br><img src="https://cdn.wutuobangai.com/tools/qzone/happyai-wechat-poster-20260923.png" width="320" alt="扫码加阿浩微信">
 
